@@ -1,0 +1,57 @@
+name: giselle.okon
+description: full-range
+version: 3.57.631
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: giselleokon
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-08 23:45:24'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-08 23:45:24'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-08T23:45:24.280203Z'
+  name: plibMaven
+  version: 8.7.0-SNAPSHOT
+  id: '371276765'
+  createdAt: '2024-12-08T23:45:24.280203Z'
+  type: plibMaven
+projectDependencies:
+  '243':
+    projectUID: 243
+    projectName: trey.oconner
+    repositoryPath: gitUri=http://gitserver:3000/dev_kFzfM9CO_team_398/dev_kFzfM9CO_project_243.git&subPath=
+    version: trey.oconner/3.2.376
+    isDefault: false
+    author: null
+    createdAt: '2024-12-08 23:45:22'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
